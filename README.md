@@ -19,8 +19,9 @@
 <h2 align="left">GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npedrovilas-del&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npedrovilas-del&layout=compact&theme=dracula&hide_border=true" height="170" />
+  <img src="https://img.shields.io/badge/Main_Language-C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/github/stars/npedrovilas-del?style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/commit-activity/m/npedrovilas-del/npedrovilas-del?style=for-the-badge&color=green" />
 </p>
 
 <h2 align="left">Activity</h2>
