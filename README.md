@@ -1,6 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
-<p align="left">My name is Pedro and I am a 42 student</p>
+<p align="left">My name is Pedro and I am a 42 student in Lisbon</p>
 
 <h2 align="left">About me</h2>
 
