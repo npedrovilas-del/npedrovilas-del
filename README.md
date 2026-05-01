@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/github/stars/npedrovilas-del?style=for-the-badge&color=gold" />
   <img src="https://img.shields.io/github/commit-activity/m/npedrovilas-del/npedrovilas-del?style=for-the-badge&color=green" />
 </p>
-## 📂 Featured Projects
 
 ### 🏫 42 Common Core & Piscine
 
