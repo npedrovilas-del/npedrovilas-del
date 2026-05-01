@@ -18,7 +18,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,docker,github,vscode,linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="40" alt="arch logo" />
 </div>
 
 <h2 align="left">GitHub Stats 📊</h2>
