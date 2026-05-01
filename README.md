@@ -1,6 +1,10 @@
 <h1 align="left">Hey 👋</h1>
 
 <p align="left">My name is Pedro and I am a 42 student in Lisbon</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/42-Lisboa-black?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
 
 <h2 align="left">About me</h2>
 
@@ -14,6 +18,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,docker,github,vscode,linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="40" alt="arch logo" />
 </div>
 
 <h2 align="left">GitHub Stats 📊</h2>
