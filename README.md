@@ -27,7 +27,16 @@
   <img src="https://img.shields.io/github/stars/npedrovilas-del?style=for-the-badge&color=gold" />
   <img src="https://img.shields.io/github/commit-activity/m/npedrovilas-del/npedrovilas-del?style=for-the-badge&color=green" />
 </p>
+## 📂 Featured Projects
 
+### 🏫 42 Common Core & Piscine
+
+| Project | Status | Tech | Description |
+| :--- | :---: | :--- | :--- |
+| [Piscine](https://github.com/npedrovilas-del/Piscine_) | ✅ | `C`, `Shell` | 4-week intensive trial. Shell00 - C07. |
+| [Libft](https://github.com/npedrovilas-del/42-libft) | ✅ | `C` | Re-implementation of the standard C library. |
+| [PrintF](https://github.com/npedrovilas-del/42-printf) | ✅ | `C` | Re-implementation of the printf function. |
+| [GNL](https://github.com/npedrovilas-del/42-GNL) | ✅ | `C` | Function that returns a line read from a file descriptor. |
 <h2 align="left">Activity</h2>
 
 <div align="center">
