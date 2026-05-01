@@ -19,8 +19,8 @@
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npedrovilas-del&show_icons=true&theme=dracula&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=npedrovilas-del&layout=compact&theme=dracula" height="170" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=npedrovilas-del&show_icons=true&theme=dracula&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=npedrovilas-del&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)" height="170" />
+  <img src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=npedrovilas-del&layout=compact&theme=dracula](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=npedrovilas-del&layout=compact&theme=dracula)" height="170" />
 </div>
 
 <h2 align="left">Activity</h2>
