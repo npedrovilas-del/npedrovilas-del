@@ -32,10 +32,12 @@
 
 | Project | Status | Tech | Description |
 | :--- | :---: | :--- | :--- |
-| [Piscine](https://github.com/npedrovilas-del/Piscine_) | ✅ | `C`, `Shell` | 4-week intensive trial. Shell00 - C07. |
-| [Libft](https://github.com/npedrovilas-del/42-libft) | ✅ | `C` | Re-implementation of the standard C library. |
-| [PrintF](https://github.com/npedrovilas-del/42-printf) | ✅ | `C` | Re-implementation of the printf function. |
-| [GNL](https://github.com/npedrovilas-del/42-GNL) | ✅ | `C` | Function that returns a line read from a file descriptor. |
+| [42-Piscine](https://github.com/npedrovilas-del/Piscine_) | ✅ | `C`, `Shell` | 4-week intensive trial. Shell00 - C07. |
+| [42-Libft](https://github.com/npedrovilas-del/42-libft) | ✅ | `C` | Re-implementation of the standard C library. |
+| [42-PrintF](https://github.com/npedrovilas-del/42-printf) | ✅ | `C` | Re-implementation of the printf function. |
+| [42-GNL](https://github.com/npedrovilas-del/42-GNL) | ✅ | `C` | Function that returns a line read from a file descriptor. |
+| [42-Pushswap](https://github.com/npedrovilas-del/42-Pushswap) | ✅ | `C` | Implementation of algorithms and parsers for organizing values. |
+| [42-Amazing](https://github.com/npedrovilas-del/Amazing) | ✅ | `Python` | Maze and algorithm constructor |
 <h2 align="left">Activity</h2>
 
 <div align="center">
