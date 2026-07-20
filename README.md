@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/npedrovilas-del/npedrovilas-del?style=for-the-badge&color=green" />
 </p>
 
-### 🏫 42 Common Core & Piscine
+### 🏫 42 Common Core & Side Projects
 
 | Project | Status | Tech | Description |
 | :--- | :---: | :--- | :--- |
@@ -38,6 +38,7 @@
 | [42-GNL](https://github.com/npedrovilas-del/42-GNL) | ✅ | `C` | Function that returns a line read from a file descriptor. |
 | [42-Pushswap](https://github.com/npedrovilas-del/42-Pushswap) | ✅ | `C` | Implementation of algorithms and parsers for organizing values. |
 | [42-Amazing](https://github.com/npedrovilas-del/Amazing) | ✅ | `Python` | Maze and algorithm constructor |
+| [Password-Generator](https://github.com/npedrovilas-del/Password-Generator) | ✅ | `Python` | A terminal-based application that generates cryptographically secure passwords |
 <h2 align="left">Activity</h2>
 
 <div align="center">
