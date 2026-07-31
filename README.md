@@ -39,6 +39,7 @@
 | [42-Pushswap](https://github.com/npedrovilas-del/42-Pushswap) | ✅ | `C` | Implementation of algorithms and parsers for organizing values. |
 | [42-Amazing](https://github.com/npedrovilas-del/Amazing) | ✅ | `Python` | Maze and algorithm constructor |
 | [Password-Generator](https://github.com/npedrovilas-del/Password-Generator) | ✅ | `Python` | A terminal-based application that generates cryptographically secure passwords |
+| [Hangman-Gane](https://github.com/npedrovilas-del/Hangman-Game) | ✅ | `Python` | A terminal-based Hangman game with full protection, optimized for the Windows environment. |
 <h2 align="left">Activity</h2>
 
 <div align="center">
