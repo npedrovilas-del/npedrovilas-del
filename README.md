@@ -1,52 +1,57 @@
-<h1 align="left">Hey 👋</h1>
+<div align="center">
 
-<p align="left">My name is Pedro and I am a 42 student in Lisbon</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/42-Lisboa-black?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</p>
+# Pedro Vilas
 
-<h2 align="left">About me</h2>
+**Software engineering student @ 42 Lisboa**
+Building things from scratch, from memory allocators to maze generators.
 
-<p align="left">
-📚 <b>I'm currently learning:</b> Low-level programming, algorithms, and infrastructure.<br>
-🎯 <b>Goals:</b> Completing the Common Core and building a solid foundation in software engineering.<br>
-🎲 <b>Fun fact:</b> I've learned that printf is a luxury and write is a lifestyle.
-</p>
+<img src="https://img.shields.io/badge/42-Lisboa-000000?style=flat-square&logo=42&logoColor=white" />
+<img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+<a href="mailto:npedrovilas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,docker,github,vscode,linux" />
 </div>
 
-<h2 align="left">GitHub Stats 📊</h2>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Language-C-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/github/stars/npedrovilas-del?style=for-the-badge&color=gold" />
-  <img src="https://img.shields.io/github/commit-activity/m/npedrovilas-del/npedrovilas-del?style=for-the-badge&color=green" />
-</p>
+### About
 
-### 🏫 42 Common Core & Side Projects
+I'm a student at **42 Lisboa**, a peer-to-peer coding school with no teachers and no lectures, just projects, deadlines and code reviews.
+I like understanding how things work underneath: memory, file descriptors, algorithms and the tooling around them.
 
-| Project | Status | Tech | Description |
-| :--- | :---: | :--- | :--- |
-| [42-Piscine](https://github.com/npedrovilas-del/Piscine_) | ✅ | `C`, `Shell` | 4-week intensive trial. Shell00 - C07. |
-| [42-Libft](https://github.com/npedrovilas-del/42-libft) | ✅ | `C` | Re-implementation of the standard C library. |
-| [42-PrintF](https://github.com/npedrovilas-del/42-printf) | ✅ | `C` | Re-implementation of the printf function. |
-| [42-GNL](https://github.com/npedrovilas-del/42-GNL) | ✅ | `C` | Function that returns a line read from a file descriptor. |
-| [42-Pushswap](https://github.com/npedrovilas-del/42-Pushswap) | ✅ | `C` | Implementation of algorithms and parsers for organizing values. |
-| [42-Amazing](https://github.com/npedrovilas-del/Amazing) | ✅ | `Python` | Maze and algorithm constructor |
-| [Password-Generator](https://github.com/npedrovilas-del/Password-Generator) | ✅ | `Python` | A terminal-based application that generates cryptographically secure passwords |
-| [Hangman-Gane](https://github.com/npedrovilas-del/Hangman-Game) | ✅ | `Python` | A terminal-based Hangman game with full protection, optimized for the Windows environment. |
-<h2 align="left">Activity</h2>
+- Currently: working through the **42 Common Core**, now on graph pathfinding (Fly-in)
+- Learning: low-level C, algorithms, Python tooling and Linux infrastructure
+- Daily driver: CachyOS, terminal first
+- Belief: `printf` is a luxury, `write` is a lifestyle
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,vscode" />
+
+### Projects
+
+#### 42 Common Core
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| [libft](https://github.com/npedrovilas-del/42-libft) | C | My own implementation of the C standard library, reused in later projects |
+| [ft_printf](https://github.com/npedrovilas-del/42-printf) | C | `printf` rebuilt from scratch with variadic arguments |
+| [get_next_line](https://github.com/npedrovilas-del/42-GNL) | C | Reads a file descriptor line by line with a static buffer |
+| [push_swap](https://github.com/npedrovilas-del/42-Pushswap) | C | Sorts a stack using a limited set of operations and as few moves as possible |
+| [A-Maze-ing](https://github.com/npedrovilas-del/Amazing) | Python, C (MiniLibX) | Maze generator and solver with a graphical interface |
+| [call_me_maybe](https://github.com/npedrovilas-del/Call_me_maybe) | Python | Constrained LLM output: makes a model return valid function calls |
+| [Fly-in](https://github.com/npedrovilas-del/fly-in) | Python | Drone routing simulation with Dijkstra-based pathfinding (in progress) |
+
+#### Side projects
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| [Password Generator](https://github.com/npedrovilas-del/Password-Generator) | Python | Terminal app that generates cryptographically secure passwords |
+| [Hangman](https://github.com/npedrovilas-del/Hangman-Game) | Python | Terminal Hangman game with input validation |
+
+### Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=npedrovilas-del&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 <div align="center">
-  <!-- Gráfico de atividade alternativo que não precisa de setup -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npedrovilas-del&theme=dracula" width="100%" />
+<sub>Always open to talk about code, 42 or Linux.</sub>
 </div>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=npedrovilas-del.npedrovilas-del" />
-</p>
