@@ -12,7 +12,7 @@ typedef struct s_dev {
 I'm a software engineering student at 42 Lisboa, learning by building: peer-to-peer, project-based, no teachers. I enjoy understanding how things work under the hood — memory, algorithms and the systems that run our code. Before 42, I completed a Bachelor's in Geography at IGOT – Universidade de Lisboa (2022–2025).
 
 > tech_stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,python,bash,linux,arch,git,github,vim,vscode&perline=9" alt="Tech stack"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white"/> </p>
 > projects
 🏛️ 42 Common Core
 Project	Language	Description
@@ -28,7 +28,7 @@ Project	Description
 Password-Generator	A simple password generator.
 Hangman-Game	The classic Hangman game.
 > stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=npedrovilas-del&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npedrovilas-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/> <br/> <img src="https://streak-stats.demolab.com?user=npedrovilas-del&theme=tokyonight&hide_border=true" alt="GitHub streak"/> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=npedrovilas-del&theme=tokyonight&hide_border=true" alt="GitHub streak"/> </div>
 <div align="center">
 while (42) { learn(); build(); repeat(); }
 
